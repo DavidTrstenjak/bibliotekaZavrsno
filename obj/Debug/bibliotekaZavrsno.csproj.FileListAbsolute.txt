@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\bibliotekaZavrsno\bibliotekaZavrsno\bin\Debug\bibliotekaZavrsno.exe.config
+C:\Users\PC\source\repos\bibliotekaZavrsno\bibliotekaZavrsno\bin\Debug\bibliotekaZavrsno.exe
+C:\Users\PC\source\repos\bibliotekaZavrsno\bibliotekaZavrsno\bin\Debug\bibliotekaZavrsno.pdb
+C:\Users\PC\source\repos\bibliotekaZavrsno\bibliotekaZavrsno\obj\Debug\bibliotekaZavrsno.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\bibliotekaZavrsno\bibliotekaZavrsno\obj\Debug\bibliotekaZavrsno.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\bibliotekaZavrsno\bibliotekaZavrsno\obj\Debug\bibliotekaZavrsno.Form1.resources
+C:\Users\PC\source\repos\bibliotekaZavrsno\bibliotekaZavrsno\obj\Debug\bibliotekaZavrsno.Properties.Resources.resources
+C:\Users\PC\source\repos\bibliotekaZavrsno\bibliotekaZavrsno\obj\Debug\bibliotekaZavrsno.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\bibliotekaZavrsno\bibliotekaZavrsno\obj\Debug\bibliotekaZavrsno.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\bibliotekaZavrsno\bibliotekaZavrsno\obj\Debug\bibliotekaZavrsno.exe
+C:\Users\PC\source\repos\bibliotekaZavrsno\bibliotekaZavrsno\obj\Debug\bibliotekaZavrsno.pdb
+C:\Users\PC\source\repos\bibliotekaZavrsno\bibliotekaZavrsno\obj\Debug\bibliotekaZavrsno.RegistrirajKorisnika.resources
+C:\Users\PC\source\repos\bibliotekaZavrsno\bibliotekaZavrsno\obj\Debug\bibliotekaZavrsno.PosudiKnjigu.resources
+C:\Users\PC\source\repos\bibliotekaZavrsno\bibliotekaZavrsno\obj\Debug\bibliotekaZavrsno.UnesiKnjigu.resources
